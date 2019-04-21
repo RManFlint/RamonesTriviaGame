@@ -1,0 +1,84 @@
+<<<<<<< HEAD
+* {font-family: Arial, Helvetica, sans-serif}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width:600px;
+    height: 800px;
+    margin: 30px auto;
+    background-image: url("../../assets/images/Ramones.jpg");
+    
+}
+#empty-div{
+    padding: 40px;
+    border: 6px solid #0000cc;
+    background-image: linear-gradient(
+	    30deg, #80aaff 0%, #99ccff 30%, white 50%, #99ccff 80%, #80aaff 100%);
+}
+
+#container {
+    width:600px;
+   height:800px;
+    background-color: white;  
+}
+
+.answers {
+    padding:5px 20px;
+    cursor:pointer;
+}
+
+#startButtonDiv, .questionDiv, #nextQues, #winsLosses, #quesResultH3 {
+    padding:5px 20px;
+    cursor:pointer;
+}
+.red, #playerWins {
+    color:red;
+    font-size:24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.blue {
+    color:blue;
+    font-size:24px;}
+
+    label, input {
+        margin: 15px 0;
+=======
+* {font-family: Arial, Helvetica, sans-serif}
+
+body{
+    width:600px;
+    height: 800px;
+    margin: 30px auto;
+    background-image: linear-gradient(
+	    30deg, #33ccff 0%, #ccffff 30%, white 50%, #ccffff 80%, #33ccff 100%);
+    
+}
+#empty-div{
+    padding: 40px;
+    border: 6px solid #0000cc;
+    background-image: linear-gradient(
+	    30deg, #80aaff 0%, #99ccff 30%, white 50%, #99ccff 80%, #80aaff 100%);
+}
+
+.red, #playerWins {
+    color:red;
+    font-size:24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.blue {
+    color:blue;
+    font-size:24px;}
+
+    label, input {
+        margin: 15px 0;
+/*>>>>>>> e62e7a2078a52a1f4d253cf06fc02eeb7980f617
+*/
+    }
+=======
+
+/*>>>>>>> e62e7a2078a52a1f4d253cf06fc02eeb7980f617*/
+    
